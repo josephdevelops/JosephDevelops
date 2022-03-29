@@ -13,7 +13,7 @@
 - Defended clients against cyberattacks, banned phishing IPs, and prevented data breaches (MySQL, SSL, Firewalls).
  
 **Developer, Corporate Secretary** - Savage Cat Inc. CA, 1/2014 to 8/2016
-Developed and maintained eCommerce stores to sell cat food products internationally with a recurring subscription payment system (HTML, CSS, UI/UX, PHP, JavaScript, VPN / VPS).
+- Developed and maintained eCommerce stores to sell cat food products internationally with a recurring subscription payment system (HTML, CSS, UI/UX, PHP, JavaScript, VPN / VPS).
 
 F**ront End Web Developer, Sales** - California Fruit Inc. CA, 5/10 - 6/16
 - Maintained and built websites and apps (WordPress, Xcode, Android Studio, Python).
