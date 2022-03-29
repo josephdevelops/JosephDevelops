@@ -20,7 +20,7 @@ Maintained and built websites and apps (WordPress, Xcode, Android Studio, Python
 
 **Web Developer** - Point Loma Nazarene University. CA, 8/8 - 5/10
 - Implemented site migration from Active CMS to WordPress (Ruby, Python, PHP, WordPress).
-- 
+ 
 ## EDUCATION
 Point Loma Nazarene University, San Diego, CA — Bachelor of Arts in Music and Philosophy, 5/10
 
