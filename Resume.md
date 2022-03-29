@@ -5,7 +5,7 @@
 ## EXPERIENCE
 **Developer** - JosephDevelops.com. CA and HI, 4/10 - PRESENT
 - Designed and developed hundreds of apps and responsive websites for desktop and mobile (JavaScript, MySQL, PHP, HTML, CSS WordPress, UI/UX, Node, React, Angular, Sass).
-- 
+ 
 **Interim Digital Director** - CanaleComm.com. CA, 4/16 - 4/17
 - Developed dozens of custom and proprietary WordPress themes and plugins (JavaScript, PHP, HTML, CSS, WordPress, Git).
 - Maintenance of encrypted secure client user portals (Digital Ocean, Amazon Web Services, and Microsoft Azure).
@@ -30,7 +30,7 @@ Point Loma Nazarene University, San Diego, CA — Bachelor of Arts in Music and 
 - **Featured Developer** - Themify.me, 11/16.
 - **Designer of the Month** - MorningPrint.com, 2/16.
 - **Featured Developer** - WooThemes, 10/15.
-- 
+ 
 ## PRESENTATION  HIGHLIGHTS
 - **WordPress San Diego** 2017, Flexbox for WordPress
 - **WordPress LAX** 2017, Responsive Web Design
