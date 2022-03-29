@@ -16,7 +16,7 @@
 Developed and maintained eCommerce stores to sell cat food products internationally with a recurring subscription payment system (HTML, CSS, UI/UX, PHP, JavaScript, VPN / VPS).
 
 F**ront End Web Developer, Sales** - California Fruit Inc. CA, 5/10 - 6/16
-Maintained and built websites and apps (WordPress, Xcode, Android Studio, Python).
+- Maintained and built websites and apps (WordPress, Xcode, Android Studio, Python).
 
 **Web Developer** - Point Loma Nazarene University. CA, 8/8 - 5/10
 - Implemented site migration from Active CMS to WordPress (Ruby, Python, PHP, WordPress).
