@@ -1,4 +1,8 @@
-### Hi there 👋
+### Aloha 👋
+
+I'm Joe, a game + web developer from Maui, HI. I've published about six games independantly so far.
+
+My main project is called Familia. I made Familia with RPG Maker MV / MZ.
 
 <!--
 **josephdevelops/josephdevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
